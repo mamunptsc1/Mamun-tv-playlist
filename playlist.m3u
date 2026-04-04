@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Bangla",Star Jalsha
+https://playztv-apps.pages.dev/star-jalsha/index.m3u8
+
+#EXTINF:-1 group-title="Bangla",BTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
