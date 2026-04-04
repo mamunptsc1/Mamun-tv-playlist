@@ -1,7 +1,42 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Bangla",Star Jalsha
-https://playztv-apps.pages.dev/star-jalsha/index.m3u8
+🇧🇩 Bangla Channels
 
 #EXTINF:-1 group-title="Bangla",BTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
+
+#EXTINF:-1 group-title="Bangla",Sangsad TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
+
+#EXTINF:-1 group-title="Bangla",Star Jalsha
+https://playztv-apps.pages.dev/star-jalsha/index.m3u8
+
+#EXTINF:-1 group-title="Bangla",Star Jalsha Backup
+https://nbn.chowdhury-shaheb.com/live/nb-starjalsha_720p/chunks.m3u8
+
+⚽ Sports
+
+#EXTINF:-1 group-title="Sports",T Sports
+https://example.com/tsports.m3u8
+
+#EXTINF:-1 group-title="Sports",Star Sports 1
+https://example.com/starsports1.m3u8
+
+#EXTINF:-1 group-title="Sports",Sony Ten 1
+https://example.com/sonyten1.m3u8
+
+🎬 Movies
+
+#EXTINF:-1 group-title="Movies",Bangla Cinema
+https://example.com/movie1.m3u8
+
+#EXTINF:-1 group-title="Movies",Hindi Movies
+https://example.com/movie2.m3u8
+
+🌍 International
+
+#EXTINF:-1 group-title="News",Al Jazeera
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+
+#EXTINF:-1 group-title="Kids",Cartoon Network
+https://example.com/cartoon.m3u8
