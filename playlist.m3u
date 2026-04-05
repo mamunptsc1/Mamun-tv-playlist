@@ -10,8 +10,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 
 #EXTINF:-1 group-title="Bangla",Star Jalsha
 https://playztv-apps.pages.dev/star-jalsha/index.m3u8
-#EXTINF:-1
-https://toffeelive.com/en/watch/Xi_Ga5oBNnOkwJLWkhKP
 
 #EXTINF:-1 tvg-logo="" group-title="Bangla",Gopal Bhar
 https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
@@ -20,14 +18,14 @@ http://198.195.239.50:8095/SonyAath/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/mAathStar%20Jalsha.png" group-title="Bangla",Star Jalsha
 http://198.195.239.50:8095/bdixbd.net_StarJalshaHD/video.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Jalsha.png" group-title="Bangla",Star Jalsha HD
-http://103.182.170.32:8888/play/a046
+http://103.182.170.32:8888/play/a046/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/zee%20Bangla.png" group-title="Bangla",Zee Bangla
-http://103.182.170.32:8888/play/a048
+http://103.182.170.32:8888/play/a048/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/zee%20Bangla.png" group-title="Bangla",Zee Bangla HD
 http://103.161.153.165:8000/play/zeebnhd/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla.png" group-title="Bangla",Colors Bangla HD
 http://103.229.254.25:7001/play/a0ds/index.m3u8
-# Source: SRC-ID:8a0a955eed047000f93213bc
+
 #EXTINF:-1 tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="Bangla",BTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="Bangla",Somoy TV
@@ -71,4 +69,4 @@ https://smart.bengaldigital.live/Zee-Bangla/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live",SONY AAT
 https://edge4.bioscopelive.com/hls/anonymous/89vSVlPfh_LMYcpVcX1oCw/1668797790/live-sony-aath_hi/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangla",ZEE BANGLA
-http://cdn.ihub.live:8082/ZeeBangla/tracks-v1a1/mono.m3u8?token=10c7e69ae621e7b8977f6fd36c9c98e4b25faa3c-5fcb5b78250ac273167dc4a1312d6207-1668516573-1668505773
+http://cdn.ihub.live:8082/ZeeBangla/tracks-v1a1/mono.m3u8
