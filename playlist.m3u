@@ -66,19 +66,19 @@ https://sm-monirul.top/AyNa/play.php?id=f064e069-8861-43d5-ac79-828b029a50a1&e=.
 
 #EXTINF:-1 
 https://mflixott.com/tv/plusbox/live/TSportsHD/index.m3u8
-#EXTINF:-1 
+#EXTINF:-1 group-title="Bangla", star ⭐  জলসা 
 https://playztv-apps.pages.dev/star-jalsha/index.m3u8
 
-#EXTINF:-1 Sony আট 
+#EXTINF:-1 group-title="Bangla", Sony 8
 http://172.16.29.3:8090/hls/SonyAtth.m3u8
 
 রাশিয়ান  প্লেলিস্ট
 
-#EXTINF:-1
+#EXTINF:-1 
 http://38.199.4.105:9999/playlist.m3u8
-#EXTINF:-1
+#EXTINF:-1 
 http://110.39.27.47:8001/playlist.m3u8
-#EXTINF:-1
+#EXTINF:-1 
 http://190.108.89.228:8000/playlist.m3u8
 #EXTINF:-1
 http://103.229.254.25:7001/playlist.m3u8
@@ -118,5 +118,5 @@ http://200.4.195.66:8000/playlist.m3u8
 http://200.115.120.1:8000/playlist.m3u8
 #EXTINF:-1
 http://38.7.195.43:8000/playlist.m3u8
-#EXTINF:-1
+#EXTINF:-1 group-title="Bangla", lool
 http://190.151.80.242:9990/playlist.m3u8
