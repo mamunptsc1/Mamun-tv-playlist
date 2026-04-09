@@ -5,7 +5,7 @@
 #EXTINF:-1 group-title="Bangla",BTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 
-#EXTINF:-1 group-title="Bangla",Sangsad TV
+#EXTINF:-1 group-title="Bangla",ekattor TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 
 #EXTINF:-1 group-title="Bangla",Star Jalsha
@@ -19,8 +19,6 @@ https://198.195.239.50:8095/SonyAath/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla.png" group-title="Bangla",Colors Bangla HD
 https://103.229.254.25:7001/play/a0ds/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="Bangla",BTV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="Bangla",Somoy TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="Bangla",Ekattor TV
@@ -57,22 +55,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-vid
 https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live",tsports
 https://mflixott.com/tv/plusbox/live/TSportsHD/index.m3u8
-#EXTINF:-1
-https://stvlive.net:8080/starsports2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 
-https://41.205.93.154/STARSPORTS1/index.m3u8
-#EXTINF:-1
-https://sm-monirul.top/AyNa/play.php?id=f064e069-8861-43d5-ac79-828b029a50a1&e=.m3u8
 
-#EXTINF:-1 
-https://mflixott.com/tv/plusbox/live/TSportsHD/index.m3u8
-#EXTINF:-1 group-title="Bangla", star ⭐  জলসা 
-https://playztv-apps.pages.dev/star-jalsha/index.m3u8
-
-#EXTINF:-1 group-title="Bangla", Sony 8
-http://172.16.29.3:8090/hls/SonyAtth.m3u8
-
-রাশিয়ান  প্লেলিস্ট
 
 #EXTINF:-1,BPK TV 1701
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
@@ -136,49 +119,3 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1730/output/index.m3u8
 
 
-#EXTINF:-1,on 
-https://38.199.4.105:9999/playlist.m3u8
-#EXTINF:-1 
-http://110.39.27.47:8001/playlist.m3u8
-#EXTINF:-1 
-http://190.108.89.228:8000/playlist.m3u8
-#EXTINF:-1
-http://103.229.254.25:7001/playlist.m3u8
-#EXTINF:-1
-http://181.224.200.5:2277/playlist.m3u8
-#EXTINF:-1
-http://110.39.27.47:8001/playlist.m3u8
-#EXTINF:-1
-http://202.70.146.135:8000/playlist.m3u8
-#EXTINF:-1
-http://190.108.89.228:8000/playlist.m3u8
-#EXTINF:-1
-http://179.1.68.245:7600/playlist.m3u8
-#EXTINF:-1
-http://154.197.91.169:8000/playlist.m3u8
-#EXTINF:-1
-http://77.137.40.221:8000/playlist.m3u8
-#EXTINF:-1
-http://190.242.59.52:8000/playlist.m3u8
-#EXTINF:-1
-http://181.119.97.124:8080/playlist.m3u8
-#EXTINF:-1
-http://64.76.181.60:50333/playlist.m3u8
-#EXTINF:-1
-http://92.176.119.180:2095/playlist.m3u8
-#EXTINF:-1
-http://45.171.64.30:8800/playlist.m3u8
-#EXTINF:-1
-http://45.171.64.30:2000/playlist.m3u8
-#EXTINF:-1
-http://58.147.140.106:4000/playlist.m3u8
-#EXTINF:-1
-http://45.177.21.6:9000/playlist.m3u8
-#EXTINF:-1
-http://200.4.195.66:8000/playlist.m3u8
-#EXTINF:-1
-http://200.115.120.1:8000/playlist.m3u8
-#EXTINF:-1
-http://38.7.195.43:8000/playlist.m3u8
-#EXTINF:-1 group-title="Bangla", lool
-http://190.151.80.242:9990/playlist.m3u8
