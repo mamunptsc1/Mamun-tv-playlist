@@ -1,7 +1,5 @@
 #EXTM3U
 
-🇧🇩 Bangla Channels
-
 #EXTINF:-1 group-title="Bangla",BTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 
@@ -50,8 +48,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-vid
 https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live",tsports
 https://mflixott.com/tv/plusbox/live/TSportsHD/index.m3u8
-
-AKASH CHANNEL LIST
 
 #EXTINF:-1,BPK TV 1701
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
@@ -114,4 +110,23 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
 #EXTINF:-1,BPK TV 1730
 https://owrcovcrpy.gpcdn.net/bpk-tv/1730/output/index.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+#EXTVLCOPT:http-origin=https://executeandship.com
+https://n100.zohanayaan.com:1686/hls/star1in.m3u8?md5=TiRoat3pOC2RYHgNAfLZIg&expires=1775913271
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1-by-xfireflix.png" group-title="CricHD 1",Star Sports 1 Hindi
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+#EXTVLCOPT:http-origin=https://executeandship.com
+https://n100.zohanayaan.com:1686/hls/starhindi.m3u8?md5=A5RjmAMhzQ5pV4RPG1-vpg&expires=1775913271
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/20-by-xfireflix.png" group-title="CricHD 1",PTV Sports
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+#EXTVLCOPT:http-origin=https://executeandship.com
+https://n100.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=sHPDlDepTNXUC7cCgBj0gA&expires=1775913271
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/38-by-xfireflix.png" group-title="CricHD 1",Willow HD
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+#EXTVLCOPT:http-origin=https://executeandship.com
+https://n100.zohanayaan.com:1686/hls/willowusa.m3u8?md5=9TxNV3du6Y4BGLMQ8tMvJA&expires=1775913271
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/8-by-xfireflix.png" group-title="CricHD 1",Willow HD 2
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+#EXTVLCOPT:http-origin=https://executeandship.com
+https://n100.zohanayaan.com:1686/hls/willowextra.m3u8?md5=LewoxlG8mJXcDJB9130z9w&expires=1775913272
