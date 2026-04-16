@@ -1,21 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Bangla",BTV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
-
-#EXTINF:-1 group-title="Bangla",ekattor TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
-
 #EXTINF:-1 group-title="Bangla",Star Jalsha
-https://playztv-apps.pages.dev/star-jalsha/index.m3u8
+https://tvsen3.aynascope.net/n64PH4YL/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Bangla",Gopal Bhar
+#EXTINF:-1 group-title="Bangla",Gopal Bhar
 https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="Bangla",Somoy TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
-#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="Bangla",Ekattor TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/puf12xv5flgbnz5/channel24_bd.png" group-title="Bangla",Channel 24
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/7xwwb8hetz3w8rp/independent_tv.png" group-title="Bangla",Independent TV
@@ -57,11 +49,11 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
 #EXTINF:-1,BPK TV 1704
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
-#EXTINF:-1,BPK TV 1705
+#EXTINF:-1,group-title="Bangla",Ekattor
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 #EXTINF:-1,BPK TV 1706
 https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
-#EXTINF:-1,BPK TV 1707
+#EXTINF:-1,group-title="Bangla",BTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1707/output/index.m3u8
 #EXTINF:-1,BPK TV 1708
 https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
