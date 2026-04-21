@@ -5,13 +5,12 @@ https://tvsen3.aynascope.net/n64PH4YL/index.m3u8
 #EXTINF:-1,Star Jalsha 2
 https://playztv-apps.pages.dev/star-jalsha/index.m3u8
 #EXTINF:-1,Gopal Bhar
+https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
 https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
 #EXTINF:-1,Deepto TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 #EXTINF:-1,Enter10 Bangla
 https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
-#EXTINF:-1, tsport
-
 #EXTINF:-1,Jumuna TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
 #EXTINF:-1,Somoy TV
