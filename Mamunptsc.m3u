@@ -6,7 +6,7 @@ https://tvsen3.aynascope.net/n64PH4YL/index.m3u8
 https://playztv-apps.pages.dev/star-jalsha/index.m3u8
 #EXTINF:-1,Gopal Bhar
 https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
-https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
+#EXTINF:-1,Gopal Bhar 2
 https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
 #EXTINF:-1,Deepto TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
@@ -66,7 +66,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1725/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1726/output/index.m3u8
 #EXTINF:-1,BPK TV 1727
 https://owrcovcrpy.gpcdn.net/bpk-tv/1727/output/index.m3u8
-#EXTINF:-1,BPK TV 1728
+#EXTINF:-1, DBC NEWS
 https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
 #EXTINF:-1,BPK TV 1729
 https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
