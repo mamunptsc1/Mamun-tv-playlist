@@ -68,6 +68,51 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
 
 #EXTINF:-1,ZEE BANGLA
 https://tvsen5.aynascope.net/PNEb3v2q6GBk/index.m3u8?e=1776929822&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=bd6d6df2800867f739a8f06ef67c1244
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8sgjYtH/resized-300x180-ffffff-12.jpg" group-title="Indian-Bangla", Zee Bangla
+http://starshare.cx:80/PeH5kPWFfG/infamous7funny/435
+http://starshare.cx:80/PeH5kPWFfG/infamous7funny/23305
+https://catchup.yuppcdn.net/amazonv2/36/preview/zeebangla/master/chunklist.m3u8
+https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8
+http://starshare.cx:80/PeH5kPWFfG/infamous7funny/23305
+#https://smart.bengaldigital.live/Zee-Bangla-Cinema/tracks-v1a1/mono.m3u8
+#https://tvsen3.aynaott.com/PNEb3v2q6GBk/index.m3u8
+#https://tvsen1.aynaott.com/PNEb3v2q6GBk/index.m3u8
+#https://tvsen6.aynaott.com/ZeeBangla/index.m3u8
+#http://87.255.35.150:18238/
+#https://mflixott.com/tv/plusbox/live/ZeeBanglaHD/index.m3u8
+#http://203.18.159.115/ZEEBANGLAHD/tracks-v1a1/mono.m3u8
+
+
 #EXTINF:-1,SPORT 2
 http://198.195.239.50:8095/SonyTenSports5/tracks-v1a1/mono.m3u8
+https://tvsen7.aynascope.net/tsports-hd/index.m3u8?e=1777160418&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=671e95816b696048a13bfc27d493510e
+https://tvsen5.aynascope.net/willowhd/index.m3u8?e=1777160440&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=4c9f2792aef589d8f42be568530fd599
 
+#EXTINF:-1 tvg-logo="" group-title="Sports", MAX  HD
+https://webott.viatv.com.np/v0t1/CineplexHD.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/dbc585f70a60b9855b6e13a8ce4cb6f4" group-title="Sports",T Sports HD
+https://tvsen7.aynascope.net/tsports-hd/index.m3u8?e=1777164055&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=dc62679c026e13dcc67c77f5e32928d2
+
+https://playztv-apps.pages.dev/tsports/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rwYm1HYJ/resized-300x180-ffffff-16.jpg" group-title="Bangladeshi",T-Sports
+http://stvlive.net:8080/tsports1/index.m3u8
+
+
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+https://catchup.yuppcdn.net/amazonv2/36/preview/zeebangla/master/chunklist.m3u8
+
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=110000
+http://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8
+
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+https://tvsen7.aynascope.net/tsportshd/index.m3u8?e=1763807044&u=2d9bb344-6d25-4409-ae9d-9644abd0bc4d&token=87a53f2029ee32c721948be99f1f4026
